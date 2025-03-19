@@ -1,0 +1,12 @@
+{
+  "name": "dynamic-form-builder",
+  "version": "1.0.0",
+  "description": "A dynamic form builder application that allows users to create, edit, and save forms with various input types (e.g., text, number, date, checkbox).",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umesh",
+  "license": "ISC"
+}
